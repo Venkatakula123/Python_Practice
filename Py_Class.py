@@ -7,4 +7,4 @@ class Person:
         return f"{self.name} ({self.age})"  
       
 person = Person('Vikas', 22)  
-print(person)  
+print(person)
